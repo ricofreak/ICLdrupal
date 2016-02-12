@@ -1,1 +1,2 @@
 [24-Jan-2016 17:42:18 America/Denver] PHP Notice:  Undefined index: zf63 in /home3/ignacio9/public_html/modules/simpletest/tests/upgrade/drupal-6.user-no-password-token.database.php on line 1
+[03-Feb-2016 04:04:17 America/Denver] PHP Notice:  Undefined index: zf63 in /home3/ignacio9/public_html/modules/simpletest/tests/upgrade/drupal-6.user-no-password-token.database.php on line 1
